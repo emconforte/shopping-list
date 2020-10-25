@@ -1,0 +1,13 @@
+.classItems {
+    font: monospace;
+    background-color: silver;
+}
+
+.mustDo {
+    color: red;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
